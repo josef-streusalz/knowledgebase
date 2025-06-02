@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Teaching KnowledgeBase
 
 This private repository contains all teaching subprojects (e.g. , plus any future topics).  
@@ -9,3 +10,7 @@ Current subproject layout:
   - scripts/   ← R/Python scripts (committed here)
 - (future subprojects will follow the same pattern)
 
+=======
+# knowledgebase
+Personal/teaching knowledgebase for single-cell analysis and other topics.
+>>>>>>> 25c6fd5a52a063a4575e22a7fa64aecdedd8af94
